@@ -1,4 +1,5 @@
 # learn-cicd-starter (Notely)
+![Status of CI tests](https://github.com/hollis-mccray/notely/actions/workflows/ci.yml/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
